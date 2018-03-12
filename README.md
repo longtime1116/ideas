@@ -10,3 +10,5 @@
   - 短縮URL
 - 記念日管理系の何か作りたい。
   - React Native でスマホアプリか？？
+- overlap の gem
+  - started_at と expired_at のどちらかが nil でもいけるバージョン
