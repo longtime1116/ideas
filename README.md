@@ -8,3 +8,4 @@
 - C extention 書いてみたい
   - helloworld
   - その後 hash とかを実装して本家と比べたい
+- gdbでRubyを逐次実行してみたい
