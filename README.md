@@ -5,8 +5,11 @@
 - 有効期限の gem
   - 本体 `if Time.current > xxx` みたいなの書きたくないが、キャンペーンとかでそういうことをしなければならないときがある
   - 本体とは別で設定ファイルみたいなのを用意したい
-- C extention 書いてみたい
-  - helloworld
-  - その後 hash とかを実装して本家と比べたい
-- gdbでRubyを逐次実行してみたい
 - 東大のCSのシラバスに沿って学んでいきたい
+
+- Ruby
+  - Rubyソースコード完全解説読む
+    - gdbでRubyを逐次実行
+  - C extention 書いてみる
+    - helloworld
+    - その後 hash とかを実装して本家と比べたい
