@@ -19,3 +19,4 @@
 
 - BFFについて学ぶ
 - CDP
+- GraphQL
