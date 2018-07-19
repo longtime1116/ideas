@@ -20,3 +20,5 @@
 - BFFについて学ぶ
 - CDP
 - GraphQL
+- CS学ぶ
+  - OSSU
